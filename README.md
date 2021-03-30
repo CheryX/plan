@@ -2,7 +2,7 @@
 
 Godzina     | Poniedziałek | Wtorek      | Środa         | Czwartek   | Piątek
 ----------- | ------------ | ----------- | ------------- | ---------- | ------ 
-7:05-7:50   |              |             |               |            | Angielski
+7:05-7:50   |              |             |               |            | ~~Angielski~~
 8:00-8:45   |              |             | Informatyka   | ~~Matematyka~~ | ~~Geografia~~
 8:55-9:40   | Historia     |             | W-F           | ~~Polski~~     | ~~Matematyka~~
 9:50-10:35  | ~~Angielski~~    | Chemia      | ~~`Angielski`~~   | ~~Historia~~   | ~~Polski~~
